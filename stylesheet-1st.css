@@ -1,0 +1,21 @@
+
+body {
+  font-family: "Avenir Next";
+}
+
+head {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+
+h1{
+  font-size: 140px;
+  color:red;
+}
+
+p{
+  font-size: 30px;
+  color:blue;
+}
